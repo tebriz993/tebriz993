@@ -1,4 +1,4 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/211332492/original/7207fea53be6910fa0e782ba0dd6a8323de1d025/asp-net-core-asp-net-mvc-dot-net-web-app-web-api.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1080/1*mzJZ1cxIt9rndKncuigc0A.jpeg)
 <h1 align="center">Hi 👋, I'm Tabriz Latifov</h1>
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
 
