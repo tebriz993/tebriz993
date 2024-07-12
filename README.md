@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1080/1*mzJZ1cxIt9rndKncuigc0A.jpeg)
+![MasterHead](https://t4.ftcdn.net/jpg/04/53/56/51/360_F_453565166_mNiOhHtBbzE90t9iBu4CgOC001NlC5fz.jpg)
 <h1 align="center">Hi 👋, I'm Tabriz Latifov</h1>
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
 
