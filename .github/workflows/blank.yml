@@ -3,7 +3,6 @@
 name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
-
 on:
   schedule:
       # every 6 hours
@@ -23,7 +22,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
     # Generates the snake  
       - uses: Platane/snk@master
