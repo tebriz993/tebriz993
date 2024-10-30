@@ -1,9 +1,9 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/53/56/51/360_F_453565166_mNiOhHtBbzE90t9iBu4CgOC001NlC5fz.jpg).
 
 <h1 align="center">Hi 👋, I'm Tabriz Latifov</h1>
-<h3 align="center">A passionate Backend developer from Azerbaijan</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **C# and ASP.NET**
+- 🔭 I’m currently working on **C#, ASP.NET, HTML, CSS, JavaScript, Typescript, React, Redux and other frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tebriz993](https://github.com/tebriz993)
 
